@@ -356,11 +356,12 @@ body{
     #navbar{
         flex-direction: column;
         height: 150px;
+        width:85.5%;
         /* flex-direction: column; */
         /* margin: 0; */
     }
-    #intro h1,h2{
-        font-size: 2rem;
+    #intro h2{
+        font-size: 3.6rem;
     }
     .first1{
         flex-direction: column;
@@ -541,8 +542,7 @@ margin: 20px;
     justify-content: center;
     box-shadow: 2px 2px 4px 2px rgb(0 0 0 / 20%);
     border-radius: 5px 5px 5px 5px;
-    min-width: 470px;
-    min-height: 500px;
+    min-width: 420px;
 }
 #ninthdivtext div{
     /* padding: 10rem; */
