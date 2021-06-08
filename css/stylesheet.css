@@ -305,6 +305,7 @@ body{
     html{
         padding: .1%;
         zoom:90%;
+        margin:0 15px 0 15px;
     }
     #intro{
         min-height:700px;
