@@ -304,6 +304,10 @@ body{
     }
     html{
         padding: .1%;
+        zoom:90%;
+    }
+    #intro{
+        min-height:700px;
     }
     #options{
         margin:6px 0 5px 0;
