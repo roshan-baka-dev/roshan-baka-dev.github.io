@@ -40,7 +40,7 @@ body{
 #options ul{
     display: flex;
     flex-direction: row;
-    padding: ;
+    /* padding: ; */
     /* margin: 0px 10px 0px 420px; */
     /* border: solid red 1px; */
 }
@@ -519,7 +519,7 @@ margin: 20px;
     color: #40484a;
     font-size: 3.2rem;
     font-weight: 500;
-    padding-bottom: ;
+    /* padding-bottom: ; */
     margin: 60px;
 }
 #ninthheader p{
